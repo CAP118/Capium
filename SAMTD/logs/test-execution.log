@@ -1,0 +1,1250 @@
+2025-10-06 12:39:43       Clicked 5.0 Profile Icon.                                                                        
+2025-10-06 12:39:48       Clicked 5.0 Logout option.                                                                       
+2025-10-06 12:39:48       Successfully redirected to login page after logout.                                              
+2025-10-06 19:16:27       Clicked 3.0 Logout directly.                                                                     
+2025-10-06 19:16:43       Logout failed: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=140.0.7339.186)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c118ee1c50517db4a80e9fae0ffd32de, findElement {value=//p[normalize-space()='Receipts, Invoices & Bankfeeds'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57124}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57124/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c118ee1c50517db4a80e9fae0ffd32de                           
+2025-10-06 19:18:03       Clicked 3.0 Logout directly.                                                                     
+2025-10-06 19:18:23       Timeout: Login page not detected after logout.                                                   
+2025-10-06 19:21:48       Clicked 5.0 Profile Icon.                                                                        
+2025-10-06 19:21:50       Clicked 5.0 Logout option.                                                                       
+2025-10-06 19:21:50       Successfully redirected to login page after logout.                                              
+2025-10-06 19:22:52       Clicked 5.0 Profile Icon.                                                                        
+2025-10-06 19:22:54       Clicked 5.0 Logout option.                                                                       
+2025-10-06 19:22:54       Successfully redirected to login page after logout.                                              
+2025-10-06 19:31:42       Clicked 5.0 Profile Icon.                                                                        
+2025-10-06 19:31:45       Clicked 5.0 Logout option.                                                                       
+2025-10-06 19:31:45       Successfully redirected to login page after logout.                                              
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-06 19:31:46
+======================================================================================
+2025-10-07 11:59:27       Attempting logout from URL: https://app.beta.capium.co.uk/sign-in.aspx?redir=%2f                           
+2025-10-07 11:59:47       No logout element clicked — logout failed.                                                       
+2025-10-07 11:59:47       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 11:59:48
+======================================================================================
+2025-10-07 12:03:48       Attempting logout from URL: https://account.beta.capium.co.uk/Account/Login                           
+2025-10-07 12:04:08       No logout element clicked — logout failed.                                                       
+2025-10-07 12:04:08       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:04:08
+======================================================================================
+2025-10-07 12:07:10       Attempting logout from URL: https://account.beta.capium.co.uk/                                   
+2025-10-07 12:07:30       No logout element clicked — logout failed.                                                       
+2025-10-07 12:07:30       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:07:31
+======================================================================================
+2025-10-07 12:09:35       Attempting logout from URL: https://account.beta.capium.co.uk/                                   
+2025-10-07 12:09:55       No logout element clicked — logout failed.                                                       
+2025-10-07 12:09:55       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:09:56
+======================================================================================
+2025-10-07 12:16:50       Attempting logout from URL: https://account.beta.capium.co.uk/                                   
+2025-10-07 12:17:10       No logout element clicked — logout failed.                                                       
+2025-10-07 12:17:10       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:17:10
+======================================================================================
+2025-10-07 12:26:27       Attempting logout from URL: https://account.beta.capium.co.uk/                                   
+2025-10-07 12:26:47       No logout element clicked — logout failed.                                                       
+2025-10-07 12:26:47       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:26:47
+======================================================================================
+2025-10-07 12:28:27       Attempting logout from URL: https://ct.beta.capium.co.uk/                                        
+2025-10-07 12:28:47       No logout element clicked — logout failed.                                                       
+2025-10-07 12:28:47       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:28:47
+======================================================================================
+2025-10-07 12:41:08       Attempting logout from URL: https://ct.beta.capium.co.uk/                                        
+2025-10-07 12:41:28       No logout element clicked — logout failed.                                                       
+2025-10-07 12:41:28       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 12:41:29
+======================================================================================
+2025-10-07 13:13:17       Attempting logout from URL: https://ct.beta.capium.co.uk/                                        
+2025-10-07 13:13:17       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-07 13:13:23       Clicked Profile icon in 5.0.                                                                     
+2025-10-07 13:13:25       Clicked Logout option in 5.0.                                                                    
+2025-10-07 13:13:25       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 13:13:26
+======================================================================================
+2025-10-07 14:41:11       Attempting logout from URL: https://ct.beta.capium.co.uk/                                        
+2025-10-07 14:41:11       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-07 14:41:17       Clicked Profile icon in 5.0.                                                                     
+2025-10-07 14:41:18       Clicked Logout option in 5.0.                                                                    
+2025-10-07 14:41:18       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 14:41:19
+======================================================================================
+2025-10-07 15:39:59       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-07 15:39:59       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-07 15:40:05       Clicked Profile icon in 5.0.                                                                     
+2025-10-07 15:40:08       Clicked Logout option in 5.0.                                                                    
+2025-10-07 15:40:08       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-07 15:40:08
+======================================================================================
+2025-10-09 18:37:28       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-09 18:37:28       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-09 18:37:31       Clicked Profile icon in 5.0.                                                                     
+2025-10-09 18:37:33       Clicked Logout option in 5.0.                                                                    
+2025-10-09 18:37:33       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 18:37:33
+======================================================================================
+2025-10-09 18:43:42       Attempting logout from URL: https://developer.service.hmrc.gov.uk/api-test-user                           
+2025-10-09 18:44:02       No logout element clicked — logout failed.                                                       
+2025-10-09 18:44:02       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 18:44:02
+======================================================================================
+2025-10-09 18:48:34       Attempting logout from URL: https://developer.service.hmrc.gov.uk/api-test-user                           
+2025-10-09 18:48:54       No logout element clicked — logout failed.                                                       
+2025-10-09 18:48:54       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 18:48:54
+======================================================================================
+2025-10-09 18:56:19       Attempting logout from URL: https://developer.service.hmrc.gov.uk/api-test-user                           
+2025-10-09 18:56:39       No logout element clicked — logout failed.                                                       
+2025-10-09 18:56:39       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 18:56:39
+======================================================================================
+2025-10-09 19:04:55       Attempting logout from URL: https://developer.service.hmrc.gov.uk/api-test-user                           
+2025-10-09 19:05:15       No logout element clicked — logout failed.                                                       
+2025-10-09 19:05:15       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 19:05:15
+======================================================================================
+2025-10-09 19:09:15       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=MDQzOTFjZmUtNDZhZC00Mjk4LWFjNjAtZDFjMWU0MjhiYjdh;tabId=0                           
+2025-10-09 19:09:15       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-09 19:09:15       Clicked Profile icon in 5.0.                                                                     
+2025-10-09 19:09:17       Clicked Logout option in 5.0.                                                                    
+2025-10-09 19:09:17       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-09 19:09:17
+======================================================================================
+2025-10-10 16:16:19       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAw;tabId=0                           
+2025-10-10 16:16:19       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:16:19       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:16:22       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:16:22       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:16:22
+======================================================================================
+2025-10-10 16:18:04       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient                           
+2025-10-10 16:18:04       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:18:04       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:18:06       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:18:06       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:18:07
+======================================================================================
+2025-10-10 16:32:51       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient                           
+2025-10-10 16:32:51       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:32:52       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:32:53       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:32:53       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:32:54
+======================================================================================
+2025-10-10 16:34:22       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=MTg0MTZlYjItYjcwNy00N2ZlLTk5YTktMDE4YzFiMzFlMmZm                           
+2025-10-10 16:34:22       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:34:23       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:34:25       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:34:25       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:34:25
+======================================================================================
+2025-10-10 16:35:46       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=NDYzMGUwMDYtYTc2ZC00MWExLWE5M2UtNTJlYWZhMTkwYzZl                           
+2025-10-10 16:35:46       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:35:46       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:35:48       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:35:48       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:35:49
+======================================================================================
+2025-10-10 16:38:31       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=ZjQ1ZWQ4OTUtMGQ4OC00YWEyLWFhNmItODg0YTI2NjllNTIy                           
+2025-10-10 16:38:31       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 16:38:32       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 16:38:33       Clicked Logout option in 5.0.                                                                    
+2025-10-10 16:38:34       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 16:38:34
+======================================================================================
+2025-10-10 19:24:06       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=YjQzYjY4NmItODQ1ZC00ZmQ0LTk0NTgtNDkzNmE3Yjc3MmRm;tabId=0                           
+2025-10-10 19:24:06       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 19:24:06       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 19:24:08       Clicked Logout option in 5.0.                                                                    
+2025-10-10 19:24:08       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 19:24:09
+======================================================================================
+2025-10-10 19:30:26       Attempting logout from URL: https://samtd.beta.capium.co.uk/home/manage/addClient;id=NWU1ZjBiYzUtMjQ5NS00MmQyLTg2NmQtOGEwNGY1NmI2Yjgy;tabId=0                           
+2025-10-10 19:30:26       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-10 19:30:26       Clicked Profile icon in 5.0.                                                                     
+2025-10-10 19:30:28       Clicked Logout option in 5.0.                                                                    
+2025-10-10 19:30:28       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-10 19:30:28
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 11:53:36
+======================================================================================
+2025-10-15 11:54:06       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1444/0x000001d6814dd790@79f445b (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63811}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63811/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eae0907b27395a60ec1b19c9e0037694                           
+2025-10-15 11:54:12       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1444/0x000001d6814dd790@47eddf30 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 7824, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 689eee7e-82ab-4a54-936f-7ae6a63148bc                           
+2025-10-15 11:54:16       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 11:54:16       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 11:54:20       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 11:54:20       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 11:54:30       Profile icon not found, skipping to direct logout check.                                         
+2025-10-15 11:54:50       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-15 11:55:10       No logout element clicked — logout failed.                                                       
+2025-10-15 11:55:10       Logout failed: Logout failed → No logout path detected!                                          
+2025-10-15 11:55:11       Clicked Profile icon in 5.0.                                                                     
+2025-10-15 11:55:12       Logout option not visible inside 5.0 profile dropdown.                                           
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 11:55:12
+======================================================================================
+2025-10-15 11:55:12       No logout element clicked — logout failed.                                                       
+2025-10-15 11:55:12       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 11:55:13
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 12:05:45
+======================================================================================
+2025-10-15 12:06:39       Attempting logout from URL: https://account.beta.capium.co.uk/Account/Login                           
+2025-10-15 12:06:43       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1435/0x000002ef944dec00@7b6dc487 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17944, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c003088c-021c-41b7-8039-349367658095                           
+2025-10-15 12:06:50       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 12:06:50       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 12:06:59       No logout element clicked — logout failed.                                                       
+2025-10-15 12:06:59       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 12:06:59
+======================================================================================
+2025-10-15 12:07:00       Profile icon not found, skipping to direct logout check.                                         
+2025-10-15 12:07:20       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-15 12:07:40       No logout element clicked — logout failed.                                                       
+2025-10-15 12:07:40       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 12:07:42
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:42:30
+======================================================================================
+2025-10-15 19:42:45       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1556/0x00000245c24e5b60@8b9b6b3 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59867}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59867/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 552f6934c23705e80efe14f53b38b5d5                           
+2025-10-15 19:42:47       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 19:42:47       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 19:42:47       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1556/0x00000245c24e5b60@577f7292 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28912, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 5449ccef-5b83-4464-9dd6-8afd491c8962                           
+2025-10-15 19:42:49       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 19:42:49       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 19:42:59       Profile icon not found, skipping to direct logout check.                                         
+2025-10-15 19:43:20       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-15 19:43:30       Clicked Profile icon in 5.0.                                                                     
+2025-10-15 19:43:40       No logout element clicked — logout failed.                                                       
+2025-10-15 19:43:40       Logout failed: Logout failed → No logout path detected!                                          
+2025-10-15 19:43:41       Error during 5.0 logout: Tried to run command without establishing a connection
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5449ccef-5b83-4464-9dd6-8afd491c8962, findElement {using=xpath, value=//span[normalize-space()='Sign Out']/parent::a}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28912, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 5449ccef-5b83-4464-9dd6-8afd491c8962                           
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:43:41
+======================================================================================
+2025-10-15 19:43:41       No logout element clicked — logout failed.                                                       
+2025-10-15 19:43:41       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:43:41
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:51:30
+======================================================================================
+2025-10-15 19:51:46       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1415/0x000001fc8e4d1ca0@122728f0 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51363}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51363/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a129e86b9c90df28f6c70ae1520d685                           
+2025-10-15 19:51:48       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 19:51:48       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 19:51:48       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1415/0x000001fc8e4d1ca0@7bf42404 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16932, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e870df1c-7e80-4b82-b429-44c74ca550e0                           
+2025-10-15 19:51:50       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-15 19:51:50       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-15 19:52:00       Profile icon not found, skipping to direct logout check.                                         
+2025-10-15 19:52:20       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-15 19:52:40       No logout element clicked — logout failed.                                                       
+2025-10-15 19:52:40       Logout failed: Logout failed → No logout path detected!                                          
+2025-10-15 19:52:40       Clicked Profile icon in 5.0.                                                                     
+2025-10-15 19:52:41       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-15 19:52:41       No logout element clicked — logout failed.                                                       
+2025-10-15 19:52:41       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:52:41
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-15 19:52:41
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 13:57:15
+======================================================================================
+2025-10-29 13:58:01       Attempting logout from URL: https://account.beta.capium.co.uk/Account/Login                           
+2025-10-29 13:58:05       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1475/0x0000018610507608@3ba177d8 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59922/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19dac55c7a16d3878f98be2271401070                           
+2025-10-29 13:58:08       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 13:58:08       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 13:58:14       Clicked Profile icon in 5.0.                                                                     
+2025-10-29 13:58:16       Clicked Logout option in 5.0.                                                                    
+2025-10-29 13:58:16       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 13:58:16
+======================================================================================
+2025-10-29 13:58:21       No logout element clicked — logout failed.                                                       
+2025-10-29 13:58:21       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 13:58:21
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 14:23:03
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 14:32:46
+======================================================================================
+2025-10-29 14:33:01       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1419/0x000001799e4d7250@700e6c9d (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53018}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53018/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee7e3a2aee8354ab38fcd5a73d5066c3                           
+2025-10-29 14:33:04       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 14:33:04       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 14:33:09       Clicked Profile icon in 5.0.                                                                     
+2025-10-29 14:33:10       Clicked Logout option in 5.0.                                                                    
+2025-10-29 14:33:10       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 14:33:11
+======================================================================================
+2025-10-29 14:33:16       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1419/0x000001799e4d7250@2f0e3cb3 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6880, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: da05270d-3be6-45de-b22d-dce5fff7fdd4                           
+2025-10-29 14:33:21       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 14:33:21       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 14:33:31       Profile icon not found, skipping to direct logout check.                                         
+2025-10-29 14:33:51       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-29 14:34:11       No logout element clicked — logout failed.                                                       
+2025-10-29 14:34:11       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 14:34:12
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:30:44
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:48:37
+======================================================================================
+2025-10-29 15:52:07       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$754/0x0000018be62b6970@766a4535 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65357}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65357/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 911b8cbac02c26963a8c15611fd81df3                           
+2025-10-29 15:52:09       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 15:52:09       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 15:52:13       Clicked Profile icon in 5.0.                                                                     
+2025-10-29 15:52:16       Clicked Logout option in 5.0.                                                                    
+2025-10-29 15:52:16       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:52:16
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:52:48
+======================================================================================
+2025-10-29 15:53:03       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1415/0x000001d9e44d2f28@30632269 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62977}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62977/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65e7cf153b16840239c4f80e44837205                           
+2025-10-29 15:53:04       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$1415/0x000001d9e44d2f28@5de60ca5 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16820, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: d7c120c6-4564-457c-896f-60743de20207                           
+2025-10-29 15:53:05       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 15:53:05       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 15:53:06       Attempting logout from URL: https://samtd.beta.capium.co.uk/                                     
+2025-10-29 15:53:06       Detected 5.0 Layout (New Eco / Charity / Payroll / Account).                                     
+2025-10-29 15:53:16       Profile icon not found, skipping to direct logout check.                                         
+2025-10-29 15:53:36       Logout option not visible inside 5.0 profile dropdown.                                           
+2025-10-29 15:53:46       Clicked Profile icon in 5.0.                                                                     
+2025-10-29 15:53:56       No logout element clicked — logout failed.                                                       
+2025-10-29 15:53:56       Logout failed: Logout failed → No logout path detected!                                          
+2025-10-29 15:53:57       Error during 5.0 logout: Tried to run command without establishing a connection
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [d7c120c6-4564-457c-896f-60743de20207, findElement {using=xpath, value=//span[normalize-space()='Sign Out']/parent::a}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0, moz:accessibilityChecks: false, moz:buildID: 20250908174027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16820, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: d7c120c6-4564-457c-896f-60743de20207                           
+2025-10-29 15:53:57       No logout element clicked — logout failed.                                                       
+2025-10-29 15:53:57       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:53:57
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 15:53:57
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 18:17:30
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 18:18:10
+======================================================================================
+
+======================================================================================
+TEST RUN COMPLETED at 2025-10-29 18:20:05
+======================================================================================
+2025-11-06 13:05:07       Attempting logout from URL: https://app.capium.com/sign-in.aspx?                                 
+2025-11-06 13:05:07       Environment: LIVE                                                                                
+2025-11-06 13:05:07       Layout: OLD ECO                                                                                  
+2025-11-06 13:05:27       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:05:27       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:05:28
+======================================================================================
+2025-11-06 13:16:47       Attempting logout from URL: https://app.capium.com/sign-in.aspx?                                 
+2025-11-06 13:16:47       Environment: LIVE                                                                                
+2025-11-06 13:16:47       Layout: OLD ECO                                                                                  
+2025-11-06 13:17:08       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:17:08       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:17:08
+======================================================================================
+2025-11-06 13:17:46       Attempting logout from URL: https://app.capium.com/sign-in.aspx?                                 
+2025-11-06 13:17:46       Environment: LIVE                                                                                
+2025-11-06 13:17:46       Layout: OLD ECO                                                                                  
+2025-11-06 13:18:06       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:18:06       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:18:06
+======================================================================================
+2025-11-06 13:20:56       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 13:20:56       Environment: LIVE                                                                                
+2025-11-06 13:20:56       Layout: OLD ECO                                                                                  
+2025-11-06 13:21:16       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:21:16       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:21:16
+======================================================================================
+2025-11-06 13:21:41       Detected Live Environment → Using Live credentials                                               
+2025-11-06 13:21:51       Error while entering credentials or clicking login: Expected condition failed: waiting for visibility of element located by By.name: Username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51900}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51900/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 804280750b3551009d12ddef057d86e2                           
+2025-11-06 13:21:51       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 13:21:51       Environment: LIVE                                                                                
+2025-11-06 13:21:51       Layout: OLD ECO                                                                                  
+2025-11-06 13:22:11       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:22:11       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:22:11
+======================================================================================
+2025-11-06 13:22:49       Detected Live Environment → Using Live credentials                                               
+2025-11-06 13:22:49       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 13:22:55       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$786/0x000002692a342470@64469d8 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55178}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55178/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ffe45197e79dd3f50c7229777ba2a5eb                           
+2025-11-06 13:22:55       Clicked on Login button successfully.                                                            
+2025-11-06 13:23:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 13:23:34       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 13:23:39       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$786/0x000001c6c5342470@64469d8 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60243}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60243/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5332cd6ea34f738b25322b080952dad3                           
+2025-11-06 13:23:39       Clicked on Login button successfully.                                                            
+2025-11-06 13:23:48       Angular wait skipped: Expected condition failed: waiting for com.Capium.Utilities.HelperClass$$Lambda$786/0x000001c6c5342470@4068102e (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60243}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60243/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5332cd6ea34f738b25322b080952dad3                           
+2025-11-06 13:23:48       Attempting logout from URL: https://account.capium.com/home                                      
+2025-11-06 13:23:48       Environment: LIVE                                                                                
+2025-11-06 13:23:48       Layout: UNKNOWN                                                                                  
+2025-11-06 13:23:48       No logout element clicked — logout may have failed.                                              
+2025-11-06 13:23:48       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 13:23:48
+======================================================================================
+2025-11-06 15:12:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:12:33       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:12:33       Clicked on Login button successfully.                                                            
+2025-11-06 15:12:41       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:12:41       Environment: LIVE                                                                                
+2025-11-06 15:12:41       Layout: UNKNOWN                                                                                  
+2025-11-06 15:12:41       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:12:41       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:12:47       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:12:47       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:12:48       Clicked on Login button successfully.                                                            
+2025-11-06 15:13:03       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:13:03       Environment: LIVE                                                                                
+2025-11-06 15:13:03       Layout: OLD ECO                                                                                  
+2025-11-06 15:13:06       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:13:16       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:13:24       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:13:24       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:13:24       Clicked on Login button successfully.                                                            
+2025-11-06 15:14:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:14:34       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:14:34       Clicked on Login button successfully.                                                            
+2025-11-06 15:14:40       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:14:40       Environment: LIVE                                                                                
+2025-11-06 15:14:40       Layout: UNKNOWN                                                                                  
+2025-11-06 15:14:40       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:14:40       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:14:45       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:14:46       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:14:46       Clicked on Login button successfully.                                                            
+2025-11-06 15:14:52       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:14:52       Environment: LIVE                                                                                
+2025-11-06 15:14:52       Layout: OLD ECO                                                                                  
+2025-11-06 15:14:54       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:15:04       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:15:13       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:15:13       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:15:13       Clicked on Login button successfully.                                                            
+2025-11-06 15:15:28       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:15:28       Environment: LIVE                                                                                
+2025-11-06 15:15:28       Layout: NEW ECO                                                                                  
+2025-11-06 15:15:35       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:15:38       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:15:38       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:15:44       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:15:44       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:15:44       Clicked on Login button successfully.                                                            
+2025-11-06 15:15:51       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:15:51       Environment: LIVE                                                                                
+2025-11-06 15:15:51       Layout: OLD ECO                                                                                  
+2025-11-06 15:15:52       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:16:03       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:16:09       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:16:09       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:16:09       Clicked on Login button successfully.                                                            
+2025-11-06 15:16:19       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:16:19       Environment: LIVE                                                                                
+2025-11-06 15:16:19       Layout: OLD ECO                                                                                  
+2025-11-06 15:16:21       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:16:31       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:16:38       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:16:38       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:16:38       Clicked on Login button successfully.                                                            
+2025-11-06 15:16:50       Attempting logout from URL: https://appv4.capium.com/#/home/new-dashboard                           
+2025-11-06 15:16:50       Environment: LIVE                                                                                
+2025-11-06 15:16:50       Layout: UNKNOWN                                                                                  
+2025-11-06 15:16:50       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:16:50       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:16:56       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:16:56       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:16:56       Clicked on Login button successfully.                                                            
+2025-11-06 15:17:10       Successfully navigated to My Admin module in New Eco Home.                                       
+2025-11-06 15:17:10       Attempting logout from URL: https://myadmin.capium.com/#/myadmin                                 
+2025-11-06 15:17:10       Environment: LIVE                                                                                
+2025-11-06 15:17:10       Layout: UNKNOWN                                                                                  
+2025-11-06 15:17:10       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:17:10       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:17:16       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:17:16       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:17:16       Clicked on Login button successfully.                                                            
+2025-11-06 15:17:29       Error while navigating to module 'Charity' in New Eco Home: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Charity']/ancestor::div[@class='card']"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06a7a329608e05c45d898fb994b84c04, findElement {value=//h6[normalize-space()='Charity']/ancestor::div[@class='card'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59530}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59530/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06a7a329608e05c45d898fb994b84c04                           
+2025-11-06 15:17:29       Attempting logout from URL: https://account.capium.com/home                                      
+2025-11-06 15:17:29       Environment: LIVE                                                                                
+2025-11-06 15:17:29       Layout: UNKNOWN                                                                                  
+2025-11-06 15:17:29       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:17:29       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:17:35       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:17:35       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:17:35       Clicked on Login button successfully.                                                            
+2025-11-06 15:17:42       Attempting logout from URL: https://timeandfees.capium.com/                                      
+2025-11-06 15:17:42       Environment: LIVE                                                                                
+2025-11-06 15:17:42       Layout: UNKNOWN                                                                                  
+2025-11-06 15:17:42       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:17:42       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:17:49       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:17:49       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:17:49       Clicked on Login button successfully.                                                            
+2025-11-06 15:17:56       Attempting logout from URL: https://clientportal.capium.com/                                     
+2025-11-06 15:17:56       Environment: LIVE                                                                                
+2025-11-06 15:17:56       Layout: NEW ECO                                                                                  
+2025-11-06 15:18:03       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:18:07       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:18:07       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:18:13       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:18:13       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:18:13       Clicked on Login button successfully.                                                            
+2025-11-06 15:18:23       Attempting logout from URL: https://appv4.capium.com/#/authentication/capiumlogin/rx%2BgxGtJdOG0QnVYhAYIdNvudeGKDxauhondhjuwAaomG2n26DANAcDDn1YWrdDSUEJ32JP2ZnAwsRKR6PMAmp4xmrK6dfPg6RdJEGK2mJryzKgf%2FmAGpAHSuxNq3OYJua1%2FPM8q7mDNU7XHwe4Z2AdK0CICeM5V%2F%2Bi%2Flki5KRjENOFxX8kXI8LWgVR77baWApM7eX3Yz19wzTpusFxVA4slfjx8Cj2ndi17lQBrSR5kLpPUETpz59eb0UMiZNtlT6kUj67TIhv8HqOm2glhBQ%3D%3D?moduletypename=MOCY                           
+2025-11-06 15:18:23       Environment: LIVE                                                                                
+2025-11-06 15:18:23       Layout: UNKNOWN                                                                                  
+2025-11-06 15:18:23       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:18:23       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 15:18:23
+======================================================================================
+2025-11-06 15:24:58       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:24:58       Environment: LIVE                                                                                
+2025-11-06 15:24:58       Layout: UNKNOWN                                                                                  
+2025-11-06 15:24:58       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:24:58       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:25:04       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:25:04       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:25:04       Clicked on Login button successfully.                                                            
+2025-11-06 15:25:08       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:25:08       Environment: LIVE                                                                                
+2025-11-06 15:25:08       Layout: UNKNOWN                                                                                  
+2025-11-06 15:25:08       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:25:08       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:25:11       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:25:11       Environment: LIVE                                                                                
+2025-11-06 15:25:11       Layout: OLD ECO                                                                                  
+2025-11-06 15:25:13       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:25:13       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:25:13       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:25:14       Clicked on Login button successfully.                                                            
+2025-11-06 15:25:23       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:25:25       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:25:25       Environment: LIVE                                                                                
+2025-11-06 15:25:25       Layout: OLD ECO                                                                                  
+2025-11-06 15:25:27       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:31:39       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:31:39       Environment: LIVE                                                                                
+2025-11-06 15:31:39       Layout: UNKNOWN                                                                                  
+2025-11-06 15:31:39       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:31:39       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:31:45       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:31:45       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:31:46       Clicked on Login button successfully.                                                            
+2025-11-06 15:31:55       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:31:55       Environment: LIVE                                                                                
+2025-11-06 15:31:55       Layout: OLD ECO                                                                                  
+2025-11-06 15:31:57       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:32:07       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:32:12       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:32:13       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:32:13       Clicked on Login button successfully.                                                            
+2025-11-06 15:32:24       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:32:24       Environment: LIVE                                                                                
+2025-11-06 15:32:24       Layout: NEW ECO                                                                                  
+2025-11-06 15:32:29       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:32:29       Environment: LIVE                                                                                
+2025-11-06 15:32:29       Layout: UNKNOWN                                                                                  
+2025-11-06 15:32:29       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:32:29       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:32:39       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:32:39       Environment: LIVE                                                                                
+2025-11-06 15:32:39       Layout: OLD ECO                                                                                  
+2025-11-06 15:32:53       Error while logging out (New Eco): Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//a[@aria-haspopup='menu'])[last()]' (tried for 10 second(s) with 250 milliseconds interval)                           
+2025-11-06 15:32:53       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:32:53       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:32:55       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:32:55       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:32:56       Clicked on Login button successfully.                                                            
+2025-11-06 15:33:03       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:33:03       Environment: LIVE                                                                                
+2025-11-06 15:33:03       Layout: OLD ECO                                                                                  
+2025-11-06 15:33:07       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:33:10       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:33:17       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:33:20       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:33:20       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:33:21       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:33:21       Clicked on Login button successfully.                                                            
+2025-11-06 15:33:25       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:33:25       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:33:25       Clicked on Login button successfully.                                                            
+2025-11-06 15:33:27       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:33:28       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:33:28       Clicked on Login button successfully.                                                            
+2025-11-06 15:33:32       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:33:32       Environment: LIVE                                                                                
+2025-11-06 15:33:32       Layout: OLD ECO                                                                                  
+2025-11-06 15:33:34       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:33:36       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:33:36       Environment: LIVE                                                                                
+2025-11-06 15:33:36       Layout: OLD ECO                                                                                  
+2025-11-06 15:33:38       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:33:44       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:33:44       Environment: LIVE                                                                                
+2025-11-06 15:33:44       Layout: NEW ECO                                                                                  
+2025-11-06 15:33:44       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:33:48       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:33:53       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:33:53       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:33:53       Clicked on Login button successfully.                                                            
+2025-11-06 15:34:05       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:34:05       Environment: LIVE                                                                                
+2025-11-06 15:34:05       Layout: OLD ECO                                                                                  
+2025-11-06 15:34:07       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:34:13       Error while logging out (New Eco): Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//a[@aria-haspopup='menu'])[last()]' (tried for 10 second(s) with 250 milliseconds interval)                           
+2025-11-06 15:34:13       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:34:13       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:34:15       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:34:16       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:34:16       Clicked on Login button successfully.                                                            
+2025-11-06 15:34:17       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:34:20       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:34:20       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:34:21       Clicked on Login button successfully.                                                            
+2025-11-06 15:34:26       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:34:27       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:34:27       Clicked on Login button successfully.                                                            
+2025-11-06 15:34:30       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:34:30       Environment: LIVE                                                                                
+2025-11-06 15:34:30       Layout: OLD ECO                                                                                  
+2025-11-06 15:34:31       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:34:31       Environment: LIVE                                                                                
+2025-11-06 15:34:31       Layout: NEW ECO                                                                                  
+2025-11-06 15:34:32       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:34:41       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:34:43       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:34:44       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:34:44       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:34:47       Attempting logout from URL: https://appv4.capium.com/#/home/new-dashboard                           
+2025-11-06 15:34:47       Environment: LIVE                                                                                
+2025-11-06 15:34:47       Layout: UNKNOWN                                                                                  
+2025-11-06 15:34:47       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:34:47       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:34:51       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:34:51       Environment: LIVE                                                                                
+2025-11-06 15:34:51       Layout: UNKNOWN                                                                                  
+2025-11-06 15:34:51       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:34:51       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:34:53       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:34:54       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:34:54       Clicked on Login button successfully.                                                            
+2025-11-06 15:34:57       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:34:58       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:34:58       Clicked on Login button successfully.                                                            
+2025-11-06 15:35:01       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:35:01       Environment: LIVE                                                                                
+2025-11-06 15:35:01       Layout: OLD ECO                                                                                  
+2025-11-06 15:35:03       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:35:09       Attempting logout from URL: https://appv4.capium.com/#/home/new-dashboard                           
+2025-11-06 15:35:09       Environment: LIVE                                                                                
+2025-11-06 15:35:09       Layout: UNKNOWN                                                                                  
+2025-11-06 15:35:09       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:35:09       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:35:13       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:35:16       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:35:16       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:35:16       Clicked on Login button successfully.                                                            
+2025-11-06 15:35:19       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:35:19       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:35:20       Clicked on Login button successfully.                                                            
+2025-11-06 15:35:24       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:35:24       Environment: LIVE                                                                                
+2025-11-06 15:35:24       Layout: OLD ECO                                                                                  
+2025-11-06 15:35:29       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:35:29       Environment: LIVE                                                                                
+2025-11-06 15:35:29       Layout: OLD ECO                                                                                  
+2025-11-06 15:35:30       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:35:33       Attempting logout from URL: https://account.capium.com/home                                      
+2025-11-06 15:35:33       Environment: LIVE                                                                                
+2025-11-06 15:35:33       Layout: UNKNOWN                                                                                  
+2025-11-06 15:35:33       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:35:33       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:35:40       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:36:01       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:36:01       Environment: LIVE                                                                                
+2025-11-06 15:36:01       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:01       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:01       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:17       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:17       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:27       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:36:27       Environment: LIVE                                                                                
+2025-11-06 15:36:27       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:27       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:27       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:36:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:36:33       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:36:33       Clicked on Login button successfully.                                                            
+2025-11-06 15:36:43       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:36:43       Environment: LIVE                                                                                
+2025-11-06 15:36:43       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:43       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:43       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:43       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:36:43       Clicked on Login button successfully.                                                            
+2025-11-06 15:36:45       Successfully navigated to My Admin module in New Eco Home.                                       
+2025-11-06 15:36:45       Attempting logout from URL: https://myadmin.capium.com/#/myadmin                                 
+2025-11-06 15:36:45       Environment: LIVE                                                                                
+2025-11-06 15:36:45       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:45       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:45       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:51       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:36:51       Environment: LIVE                                                                                
+2025-11-06 15:36:51       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:51       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:51       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:57       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:36:57       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:36:57       Error while navigating to module 'Charity' in New Eco Home: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Charity']/ancestor::div[@class='card']"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [596fa4e094ff7d370434198e1357b71f, findElement {value=//h6[normalize-space()='Charity']/ancestor::div[@class='card'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55108}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55108/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 596fa4e094ff7d370434198e1357b71f                           
+2025-11-06 15:36:57       Attempting logout from URL: https://account.capium.com/home                                      
+2025-11-06 15:36:57       Environment: LIVE                                                                                
+2025-11-06 15:36:57       Layout: UNKNOWN                                                                                  
+2025-11-06 15:36:57       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:36:57       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:36:57       Clicked on Login button successfully.                                                            
+2025-11-06 15:37:04       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:37:05       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:37:05       Clicked on Login button successfully.                                                            
+2025-11-06 15:37:09       Attempting logout from URL: https://appv4.capium.com/#/authentication/capiumlogin/rx%2BgxGtJdOG0QnVYhAYIdNvudeGKDxauhondhjuwAaomG2n26DANAcDDn1YWrdDSUEJ32JP2ZnAwsRKR6PMAmp4xmrK6dfPg6RdJEGK2mJryzKgf%2FmAGpAHSuxNq3OYJua1%2FPM8q7mDNU7XHwe4Z2AdK0CICeM5V%2F%2Bi%2Flki5KRjENOFxX8kXI8LWgVR77baWApM7eX3Yz19wzTpusFxVA4slfjx8Cj2ndi17lQBrSR5kLpPUETpz59eb0UMiZNtldILCXCVxrW1dxUWgwAcTcw%3D%3D?moduletypename=MOCY                           
+2025-11-06 15:37:09       Environment: LIVE                                                                                
+2025-11-06 15:37:09       Layout: UNKNOWN                                                                                  
+2025-11-06 15:37:09       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:37:09       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:37:14       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:37:15       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:37:15       Clicked on Login button successfully.                                                            
+2025-11-06 15:37:15       Attempting logout from URL: https://timeandfees.capium.com/                                      
+2025-11-06 15:37:15       Environment: LIVE                                                                                
+2025-11-06 15:37:15       Layout: UNKNOWN                                                                                  
+2025-11-06 15:37:15       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:37:15       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:37:21       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:37:22       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:37:22       Environment: LIVE                                                                                
+2025-11-06 15:37:22       Layout: UNKNOWN                                                                                  
+2025-11-06 15:37:22       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:37:22       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:37:22       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:37:22       Environment: LIVE                                                                                
+2025-11-06 15:37:22       Layout: OLD ECO                                                                                  
+2025-11-06 15:37:22       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:37:22       Clicked on Login button successfully.                                                            
+2025-11-06 15:37:28       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:37:28       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:37:28       Clicked on Login button successfully.                                                            
+2025-11-06 15:37:29       Attempting logout from URL: https://clientportal.capium.com/                                     
+2025-11-06 15:37:29       Environment: LIVE                                                                                
+2025-11-06 15:37:29       Layout: NEW ECO                                                                                  
+2025-11-06 15:37:35       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:37:35       Environment: LIVE                                                                                
+2025-11-06 15:37:35       Layout: OLD ECO                                                                                  
+2025-11-06 15:37:36       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:37:37       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:38:17       Logout option not found inside profile dropdown (New Eco).                                       
+2025-11-06 15:38:17       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:38:17       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:38:22       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:38:23       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:38:23       Clicked on Login button successfully.                                                            
+2025-11-06 15:38:27       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:38:27       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:38:27       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:38:35       Attempting logout from URL: https://appv4.capium.com/#/authentication/capiumlogin/rx%2BgxGtJdOG0QnVYhAYIdNvudeGKDxauhondhjuwAaomG2n26DANAcDDn1YWrdDSUEJ32JP2ZnAwsRKR6PMAmp4xmrK6dfPg6RdJEGK2mJryzKgf%2FmAGpAHSuxNq3OYJua1%2FPM8q7mDNU7XHwe4Z2AdK0CICeM5V%2F%2Bi%2Flki5KRjENOFxX8kXI8LWgVR77baWApM7eX3Yz19wzTpusFxVA4slfjx8Cj2ndi17lQBrSR5kLpPUETpz59eb0UMiZNtl9y7OCCyBZcU3ks9KOni30A%3D%3D?moduletypename=MOCY                           
+2025-11-06 15:38:35       Environment: LIVE                                                                                
+2025-11-06 15:38:35       Layout: UNKNOWN                                                                                  
+2025-11-06 15:38:35       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:38:35       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:38:43       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:38:43       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:38:43       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:38:43       Clicked on Login button successfully.                                                            
+2025-11-06 15:38:50       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:38:50       Environment: LIVE                                                                                
+2025-11-06 15:38:50       Layout: UNKNOWN                                                                                  
+2025-11-06 15:38:50       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:38:50       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:38:53       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:38:53       Environment: LIVE                                                                                
+2025-11-06 15:38:53       Layout: UNKNOWN                                                                                  
+2025-11-06 15:38:53       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:38:53       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:38:53       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:38:54       Clicked on Login button successfully.                                                            
+2025-11-06 15:38:59       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:38:59       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:38:59       Clicked on Login button successfully.                                                            
+2025-11-06 15:39:08       Attempting logout from URL: https://clientportal.capium.com/                                     
+2025-11-06 15:39:08       Environment: LIVE                                                                                
+2025-11-06 15:39:08       Layout: NEW ECO                                                                                  
+2025-11-06 15:39:14       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:39:14       Environment: LIVE                                                                                
+2025-11-06 15:39:14       Layout: NEW ECO                                                                                  
+2025-11-06 15:39:15       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:39:39       Logout option not found inside profile dropdown (New Eco).                                       
+2025-11-06 15:39:39       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:39:39       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:39:41       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:39:43       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:39:43       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:39:49       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:39:49       Environment: LIVE                                                                                
+2025-11-06 15:39:49       Layout: UNKNOWN                                                                                  
+2025-11-06 15:39:49       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:39:49       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:39:55       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:39:55       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:39:55       Clicked on Login button successfully.                                                            
+2025-11-06 15:40:02       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:40:02       Environment: LIVE                                                                                
+2025-11-06 15:40:02       Layout: UNKNOWN                                                                                  
+2025-11-06 15:40:02       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:40:02       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:40:07       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:40:07       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:40:08       Clicked on Login button successfully.                                                            
+2025-11-06 15:40:15       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:40:15       Environment: LIVE                                                                                
+2025-11-06 15:40:15       Layout: OLD ECO                                                                                  
+2025-11-06 15:40:17       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:40:20       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:40:20       Environment: LIVE                                                                                
+2025-11-06 15:40:20       Layout: OLD ECO                                                                                  
+2025-11-06 15:40:27       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:40:33       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:40:33       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:40:33       Clicked on Login button successfully.                                                            
+2025-11-06 15:40:54       Attempting logout from URL: https://bookkeeping.capium.com/general-manage/clients                           
+2025-11-06 15:40:54       Environment: LIVE                                                                                
+2025-11-06 15:40:54       Layout: NEW ECO                                                                                  
+2025-11-06 15:41:04       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:41:04       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:41:04       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:41:06       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:41:06       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:41:12       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:41:12       Environment: LIVE                                                                                
+2025-11-06 15:41:12       Layout: UNKNOWN                                                                                  
+2025-11-06 15:41:12       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:41:12       Logout failed: Logout failed → No logout path detected!                                          
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 15:41:12
+======================================================================================
+2025-11-06 15:41:18       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:41:18       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:41:18       Clicked on Login button successfully.                                                            
+2025-11-06 15:41:25       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:41:25       Environment: LIVE                                                                                
+2025-11-06 15:41:25       Layout: UNKNOWN                                                                                  
+2025-11-06 15:41:25       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:41:25       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:41:30       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:41:31       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:41:31       Clicked on Login button successfully.                                                            
+2025-11-06 15:41:39       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:41:39       Environment: LIVE                                                                                
+2025-11-06 15:41:39       Layout: OLD ECO                                                                                  
+2025-11-06 15:41:41       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:41:42       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:41:42       Environment: LIVE                                                                                
+2025-11-06 15:41:42       Layout: OLD ECO                                                                                  
+2025-11-06 15:41:51       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:41:53       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:41:53       Environment: LIVE                                                                                
+2025-11-06 15:41:53       Layout: UNKNOWN                                                                                  
+2025-11-06 15:41:53       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:41:53       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:41:59       Attempting logout from URL: https://account.capium.com/Account/Login                             
+2025-11-06 15:41:59       Environment: LIVE                                                                                
+2025-11-06 15:41:59       Layout: UNKNOWN                                                                                  
+2025-11-06 15:41:59       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:41:59       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:42:23       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:42:23       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:42:25       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:42:26       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:42:26       Clicked on Login button successfully.                                                            
+2025-11-06 15:42:29       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:42:29       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:42:30       Clicked on Login button successfully.                                                            
+2025-11-06 15:42:30       Attempting logout from URL: https://app.capium.com/sign-in.aspx                                  
+2025-11-06 15:42:30       Environment: LIVE                                                                                
+2025-11-06 15:42:30       Layout: OLD ECO                                                                                  
+2025-11-06 15:42:36       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:42:36       Environment: LIVE                                                                                
+2025-11-06 15:42:36       Layout: OLD ECO                                                                                  
+2025-11-06 15:42:38       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:42:38       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:42:38       Environment: LIVE                                                                                
+2025-11-06 15:42:38       Layout: OLD ECO                                                                                  
+2025-11-06 15:42:40       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:42:48       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:42:50       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 15:42:50
+======================================================================================
+2025-11-06 15:43:12       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:43:12       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:43:14       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:43:14       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:43:14       Clicked on Login button successfully.                                                            
+2025-11-06 15:43:17       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:43:18       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:43:18       Clicked on Login button successfully.                                                            
+2025-11-06 15:43:22       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:43:22       Environment: LIVE                                                                                
+2025-11-06 15:43:22       Layout: OLD ECO                                                                                  
+2025-11-06 15:43:24       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:43:25       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:43:25       Environment: LIVE                                                                                
+2025-11-06 15:43:25       Layout: OLD ECO                                                                                  
+2025-11-06 15:43:28       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:43:34       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:43:38       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:43:39       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:43:40       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:43:40       Clicked on Login button successfully.                                                            
+2025-11-06 15:43:44       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:43:44       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:43:44       Clicked on Login button successfully.                                                            
+2025-11-06 15:43:51       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:43:51       Environment: LIVE                                                                                
+2025-11-06 15:43:51       Layout: OLD ECO                                                                                  
+2025-11-06 15:43:52       Attempting logout from URL: https://appv4.capium.com/#/home/new-dashboard                           
+2025-11-06 15:43:52       Environment: LIVE                                                                                
+2025-11-06 15:43:52       Layout: UNKNOWN                                                                                  
+2025-11-06 15:43:52       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:43:52       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:43:53       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:43:57       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:43:58       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:43:58       Clicked on Login button successfully.                                                            
+2025-11-06 15:44:03       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 15:44:03
+======================================================================================
+2025-11-06 15:44:09       Successfully navigated to My Admin module in New Eco Home.                                       
+2025-11-06 15:44:09       Attempting logout from URL: https://myadmin.capium.com/#/myadmin                                 
+2025-11-06 15:44:09       Environment: LIVE                                                                                
+2025-11-06 15:44:09       Layout: UNKNOWN                                                                                  
+2025-11-06 15:44:09       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:44:09       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:44:14       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:44:15       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:44:15       Clicked on Login button successfully.                                                            
+2025-11-06 15:44:28       Error while navigating to module 'Charity' in New Eco Home: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Charity']/ancestor::div[@class='card']"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [781ae9164e48af40587f66bdfe60859d, findElement {value=//h6[normalize-space()='Charity']/ancestor::div[@class='card'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57577}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57577/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 781ae9164e48af40587f66bdfe60859d                           
+2025-11-06 15:44:28       Attempting logout from URL: https://account.capium.com/home                                      
+2025-11-06 15:44:28       Environment: LIVE                                                                                
+2025-11-06 15:44:28       Layout: UNKNOWN                                                                                  
+2025-11-06 15:44:28       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:44:28       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:44:34       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:44:34       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:44:34       Clicked on Login button successfully.                                                            
+2025-11-06 15:44:42       Attempting logout from URL: https://timeandfees.capium.com/                                      
+2025-11-06 15:44:42       Environment: LIVE                                                                                
+2025-11-06 15:44:42       Layout: UNKNOWN                                                                                  
+2025-11-06 15:44:42       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:44:42       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:44:48       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:44:48       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:44:48       Clicked on Login button successfully.                                                            
+2025-11-06 15:44:55       Attempting logout from URL: https://clientportal.capium.com/                                     
+2025-11-06 15:44:55       Environment: LIVE                                                                                
+2025-11-06 15:44:55       Layout: NEW ECO                                                                                  
+2025-11-06 15:45:03       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:45:06       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:45:06       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:45:12       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:45:12       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:45:12       Clicked on Login button successfully.                                                            
+2025-11-06 15:45:23       Attempting logout from URL: https://appv4.capium.com/#/authentication/capiumlogin/rx%2BgxGtJdOG0QnVYhAYIdNvudeGKDxauhondhjuwAaomG2n26DANAcDDn1YWrdDSUEJ32JP2ZnAwsRKR6PMAmp4xmrK6dfPg6RdJEGK2mJryzKgf%2FmAGpAHSuxNq3OYJua1%2FPM8q7mDNU7XHwe4Z2AdK0CICeM5V%2F%2Bi%2Flki5KRjENOFxX8kXI8LWgVR77baWApM7eX3Yz19wzTpusFxVA4slfjx8Cj2ndi17lQBrSR5kLpPUETpz59eb0UMiZNtlOuV0ckyqGttEO3CoyvJB2g%3D%3D?moduletypename=MOCY                           
+2025-11-06 15:45:23       Environment: LIVE                                                                                
+2025-11-06 15:45:23       Layout: UNKNOWN                                                                                  
+2025-11-06 15:45:23       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:45:23       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:45:29       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:45:29       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:45:29       Clicked on Login button successfully.                                                            
+2025-11-06 15:45:36       Attempting logout from URL: https://corporationtax.capium.com/                                   
+2025-11-06 15:45:36       Environment: LIVE                                                                                
+2025-11-06 15:45:36       Layout: UNKNOWN                                                                                  
+2025-11-06 15:45:36       No logout element clicked — logout may have failed.                                              
+2025-11-06 15:45:36       Logout failed: Logout failed → No logout path detected!                                          
+2025-11-06 15:45:42       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:45:42       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:45:42       Clicked on Login button successfully.                                                            
+2025-11-06 15:45:49       Attempting logout from URL: https://app.capium.com/accounts/                                     
+2025-11-06 15:45:49       Environment: LIVE                                                                                
+2025-11-06 15:45:49       Layout: OLD ECO                                                                                  
+2025-11-06 15:45:50       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:46:00       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:46:06       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:46:06       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:46:06       Clicked on Login button successfully.                                                            
+2025-11-06 15:46:17       Attempting logout from URL: https://bookkeeping.capium.com/                                      
+2025-11-06 15:46:17       Environment: LIVE                                                                                
+2025-11-06 15:46:17       Layout: NEW ECO                                                                                  
+2025-11-06 15:46:27       Clicked Profile icon (New Eco).                                                                  
+2025-11-06 15:46:30       Clicked Logout option (New Eco).                                                                 
+2025-11-06 15:46:50       Timeout: Login page not detected after logout.                                                   
+2025-11-06 15:46:55       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:46:55       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:46:56       Clicked on Login button successfully.                                                            
+2025-11-06 15:47:03       Attempting logout from URL: https://app.capium.com/payroll/                                      
+2025-11-06 15:47:03       Environment: LIVE                                                                                
+2025-11-06 15:47:03       Layout: OLD ECO                                                                                  
+2025-11-06 15:47:04       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:47:15       Successfully logged out and redirected to login page.                                            
+2025-11-06 15:47:20       Detected Live Environment → Using Live credentials                                               
+2025-11-06 15:47:20       Entered credentials using OLD login locators (Live/Beta).                                        
+2025-11-06 15:47:21       Clicked on Login button successfully.                                                            
+2025-11-06 15:47:30       Attempting logout from URL: https://app.capium.com/selfassessment/                               
+2025-11-06 15:47:30       Environment: LIVE                                                                                
+2025-11-06 15:47:30       Layout: OLD ECO                                                                                  
+2025-11-06 15:47:32       Clicked Logout (Old Eco 3.0).                                                                    
+2025-11-06 15:47:42       Successfully logged out and redirected to login page.                                            
+
+======================================================================================
+TEST RUN COMPLETED at 2025-11-06 15:47:42
+======================================================================================

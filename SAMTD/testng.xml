@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cross Browser Suite" parallel="classes" thread-count="3">
+    <test name="Test on Chrome">
+        <parameter name="browserType" value="chrome" />
+        <classes>
+            <class name="com.Capium.RunnerFiles.Login_runner" />
+            <class name="com.Capium.RunnerFiles.Login2_runner" />
+            <class name="com.Capium.RunnerFiles.Login3_runner" />
+            <class name="com.Capium.RunnerFiles.Login4_runner" />
+        </classes>
+    </test>
+</suite>

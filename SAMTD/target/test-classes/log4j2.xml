@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Console Output -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-25d{yyyy-MM-dd HH:mm:ss} %-70msg %-15X{user} %-10X{action}%n"/>
+        </Console>
+
+        <!-- Text File Log -->
+        <File name="FileLogger" fileName="logs/test-execution.log">
+            <PatternLayout>
+                <Pattern>%-25d{yyyy-MM-dd HH:mm:ss} %-70msg %-15X{user} %-10X{action}%n</Pattern>
+            </PatternLayout>
+        </File>
+
+        <!-- CSV Format Log -->
+        <File name="CSVLogger" fileName="logs/test-activity-log.csv" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss},%X{user},%X{action},%msg%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+            <AppenderRef ref="CSVLogger"/>
+        </Root>
+    </Loggers>
+</Configuration>
