@@ -115,7 +115,7 @@ public class Login_Stepdef {
 
 	@Then("Navigate to {string} module")
 	public void navigate_to_module(String moduleName) {
-		login.NavigateToModule(moduleName);
+		login.navigateToModule(moduleName);
 	}
 
 }
